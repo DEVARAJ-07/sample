@@ -1,9 +1,6 @@
 /**
  * File: index.js
- * Created via Nexus AI VSCode Editor
- * Target: sample
+ * Created in DEVARAJ-07/sample
+ * Target Branch: nexus
  */
 
-export default function init() {
-  console.log("Initialized index.js");
-}
